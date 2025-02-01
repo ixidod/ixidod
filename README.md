@@ -1,6 +1,6 @@
 # 🚀 Hi, I'm Patrycjusz 👋  
 
-🌟 **DevOps | GitOps | Cloud Engineer | Terraform Enthusiast**  
+🌟 **DevOps | GitOps | Cloud Engineer**  
 
 🔹 Passionate about automating infrastructure, optimizing CI/CD workflows, and enabling GitOps-driven deployments.  
 🔹 Experienced in **Kubernetes, Terraform, AWS, ArgoCD, and CI/CD Pipelines**.  
