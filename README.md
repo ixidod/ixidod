@@ -21,3 +21,5 @@
 
 🚀 **Let's build scalable, automated, and resilient infrastructure!** 💡  
 ⭐ **If you like my work, drop a star on my repositories!** ⭐  
+
+![Profile Views](https://komarev.com/ghpvc/?username=ixidod&color=blue)
