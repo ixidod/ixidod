@@ -1,25 +1,29 @@
-# 🚀 Hi, I'm Patrycjusz 👋  
 
-🌟 **DevOps | GitOps | Cloud Engineer**  
+# Hi, I'm Patrycjusz
 
-🔹 Passionate about automating infrastructure, optimizing CI/CD workflows, and enabling GitOps-driven deployments.  
-🔹 Experienced in **Kubernetes, Terraform, AWS, ArgoCD, and CI/CD Pipelines**.  
+## DevOps | GitOps | Cloud Engineer  
 
----
+I specialize in **automating infrastructure, managing Kubernetes clusters, and building GitOps-driven CI/CD workflows**.  
+Currently working on **Terraform automation for Lima-based Kubernetes clusters on macOS**.
 
-## 🛠️ Tech Stack & Tools  
-- **Infrastructure as Code (IaC)**: Terraform, CloudFormation  
-- **Containerization & Orchestration**: Docker, Kubernetes (EKS, AKS, GKE)  
-- **GitOps & CI/CD**: ArgoCD, FluxCD, GitHub Actions, Jenkins, GitLab CI  
-- **Cloud Providers**: AWS ☁️ | Azure | GCP  
-- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack  
+## Technical Skills
+- **Infrastructure as Code (IaC)**: Terraform, Ansible  
+- **Containerization & Orchestration**: Kubernetes (kubeadm, GKE, EKS, AKS), Lima, Docker  
+- **GitOps & CI/CD**: ArgoCD, FluxCD, GitHub Actions, GitLab CI, Jenkins  
+- **Cloud & Virtualization**: AWS, GCP, Azure, Lima, Colima  
+- **Monitoring & Logging**: Prometheus, Grafana, Loki  
 - **Scripting & Automation**: Bash, Python  
+- **Networking & Security**: Cilium, Calico, Ingress, TLS  
 
+## Projects & Work  
+- **Automating Kubernetes node creation on macOS with Terraform + Lima**  
+- **CI/CD pipelines using GitHub Actions, GitLab CI, and ArgoCD**  
+- **Building scalable Kubernetes clusters with kubeadm**  
 
-## 📫 Connect with Me  
-💼 [LinkedIn](https://www.linkedin.com/in/patrycjusz-myszka/) | 📧 [Email](mailto:pat.myszka@gmail.com)  
+## Contact  
+- [LinkedIn](https://www.linkedin.com/in/patrycjusz-myszka/)  
+- [Email](mailto:pat.myszka@gmail.com)  
+- [GitHub](https://github.com/ixidod)  
 
-🚀 **Let's build scalable, automated, and resilient infrastructure!** 💡  
-⭐ **If you like my work, drop a star on my repositories!** ⭐  
-
-![Profile Views](https://komarev.com/ghpvc/?username=ixidod&color=blue)
+If you're interested in **infrastructure automation, Kubernetes, and GitOps**, let’s connect.  
+Feel free to explore my repositories and leave feedback.
